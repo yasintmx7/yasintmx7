@@ -1,21 +1,19 @@
-### yasin
+<div align="center">
 
-⌁ building for the open internet
+# yasin
 
-web3 / defi / payments / ai
+### `builder.exe`
 
-idea → code → ship → repeat
-<!--
-**yasintmx7/yasintmx7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+building systems for the open internet
 
-Here are some ideas to get you started:
+`web3` · `defi` · `payments` · `ai` · `infra`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+`think → build → break → iterate → ship_`
+
+<br><br>
+
+[𝕏](YOUR_X_LINK) &nbsp;·&nbsp; [website](YOUR_WEBSITE_LINK)
+
+</div>
